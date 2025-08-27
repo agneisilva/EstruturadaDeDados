@@ -1,0 +1,35 @@
+# Arquivos de Ambiente Virtual do Python
+# Ignora qualquer pasta chamada venv ou env
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e bancos de dados locais
+*.log
+*.sqlite3
+*.db
+
+# Arquivos de ambiente com informações sensíveis
+.env
+
+# Arquivos gerados por ferramentas de build ou pacotes
+build/
+dist/
+*.egg-info/
