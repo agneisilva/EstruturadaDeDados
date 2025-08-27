@@ -48,20 +48,6 @@ Uma aplicação poderosa das árvores é a representação de expressões matem�
 * **Estrutura**: Os nós internos são os **operadores** (+, -, \*, /) e os nós folha são os **operandos** (números e variáveis).
 * **Funcionamento**: A estrutura da árvore respeita nativamente a precedência de operadores e o uso de parênteses, permitindo a avaliação de expressões complexas. O código-fonte demonstra como construir essa árvore a partir de uma string.
 
-## 📂 Estrutura do Repositório
-
-Os códigos estão organizados em pastas, seguindo a ordem das aulas para facilitar a localização do material:
-
-```
-.
-├── Aula-01-Conceitos-BST/
-│   └── bst_completa.py
-├── Aula-02-Travessias-AVL/
-│   └── arvore_avl.py
-├── Aula-03-Arvores-de-Expressao/
-│   └── expressao_aritmetica.py
-└── README.md
-```
 
 ## ⚙️ Como Executar o Código
 
